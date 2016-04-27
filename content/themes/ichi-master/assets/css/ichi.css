@@ -11,3 +11,12 @@ Custom CSS
 .head-area {
     background-color: rgb(244,242,227);
 }
+
+.head-area {
+    left: 0;
+    right: initial;
+}
+
+.main-column {
+    float: right !important;
+}
